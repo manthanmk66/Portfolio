@@ -123,7 +123,11 @@ export const getOutput = (command, setCommand) => {
               {" "}
               Riders Point{" "}
             </a>
-            - This is my FullStack Project using ReactJS and SpringBoot {" "}
+            - Riders Point is a platform for group travel designed to facilitate communication and shared experiences among bike
+              riders. I utilized ReactJS for the frontend, Spring Boot for the backend, and MySQL for the database. The
+              application enables users to plan, share, and join group rides. It includes functionalities such as route planning, ride
+              sharing via phone numbers, and user profiles. Key features involve route setting, ride sharing, user communication,
+              and profile management through unique login credentials {" "}
             {/* <span className="text-teal-400 ml-3">Riders Point</span>  */}
             <br />
           </div>
