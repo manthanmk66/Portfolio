@@ -157,8 +157,8 @@ export const getOutput = (command, setCommand) => {
           </a>
           <span className="text-teal-400 ml-3">
             {" "}
-            Technology:ReactJS, Tailwind CSS, NodeJS, ExpressJS, shadcn/ui,
-            MongoDB
+            Technology:ReactJS, Redux, Tailwind CSS, NodeJS, ExpressJS,
+            shadcn/ui, MongoDB
           </span>
           - EduTechForge is an innovative Learning Management System (LMS) built
           using modern technology. It's designed to make learning personalized
@@ -178,6 +178,10 @@ export const getOutput = (command, setCommand) => {
             {" "}
             Random Password Generator- Chrome Extention{" "}
           </a>
+          <span className="text-teal-400 ml-3">
+            {" "}
+            Technology:HTML, CSS, Javascript
+          </span>
           - This project is a simple random password generator tool and also
           made it for the Chrome Extention that allows users to generate strong
           and secure passwords based on their preferences. It provides various
