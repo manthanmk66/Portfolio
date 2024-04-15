@@ -157,8 +157,8 @@ export const getOutput = (command, setCommand) => {
           </a>
           <span className="text-teal-400 ml-3">
             {" "}
-            Technology:ReactJS, Redux, Tailwind CSS, NodeJS, ExpressJS,
-            shadcn/ui, MongoDB
+            Technology:ReactJS, Redux, Tailwind CSS, NodeJS, ExpressJS, REST
+            API, Cloudinary, jwt-authentication, RazorPay API shadcn/ui, MongoDB
           </span>
           - EduTechForge is an innovative Learning Management System (LMS) built
           using modern technology. It's designed to make learning personalized
