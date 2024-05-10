@@ -103,15 +103,14 @@ export const getOutput = (command, setCommand) => {
         <div>
           <span className="text-teal-400 ml-3">Languages - </span>
           <br />
-          <span className="ml-7">
-            Java, JavaScript, SpringBoot, C++, Dotnet{" "}
-          </span>
+          <span className="ml-7">Java, JavaScript, C++, Dotnet </span>
           <br />
           <span className="text-teal-400 ml-3">Frameworks/Libraries - </span>
           <br />
           <span className="ml-7">
             {" "}
-            ReactJS, jQuery, Vanilla CSS , Tailwind CSS
+            ReactJS, Redux, Next.js, NodeJS, ExpressJS, SpringBoot, jQuery,
+            Vanilla CSS , Tailwind CSS, shadcn/ui
           </span>
           <br />
           <span className="text-teal-400 ml-3">
@@ -171,6 +170,48 @@ export const getOutput = (command, setCommand) => {
           <br />
           <br />
           <span className="text-teal-400 ml-3">3. </span>
+          <a
+            className="text-purple-400"
+            href="https://github.com/manthanmk66/Nextjs"
+          >
+            {" "}
+            NextAuth{" "}
+          </a>
+          <span className="text-teal-400 ml-3">
+            {" "}
+            Technology:Next.js,MongoDB,TailwindCSS
+          </span>
+          - NextAuth is a Next.js web app with MongoDB integration, featuring
+          advanced authentication functionalities. Users can register, log in,
+          and enjoy features like email verification, password recovery, and
+          route protection. Leveraging Appwrite for backend services, NextAuth
+          ensures seamless integration with email delivery and more. Deployed on
+          Vercel for scalability and reliability, NextAuth offers a streamlined
+          authentication experience for modern web applications.{" "}
+          {/* <span className="text-teal-400 ml-3">Riders Point</span>  */}
+          <br />
+          <br />
+          <br />
+          <span className="text-teal-400 ml-3">4. </span>
+          <a
+            className="text-purple-400"
+            href="https://github.com/manthanmk66/UserNex"
+          >
+            {" "}
+            UserNex{" "}
+          </a>
+          <span className="text-teal-400 ml-3">
+            {" "}
+            Technology:ReactJS, Tailwind CSS,MongoDB, Node.js, Express.js, JWT,
+            and bcrypt.js
+          </span>
+          - UserNex enhances security in user management. With OTP-based login
+          and email verification, authentication is robust. Users can manage
+          profiles securely, ensuring a safe and efficient experience
+          <br /> <br />
+          <br />
+          {/* <span className="text-teal-400 ml-3">Riders Point</span> */}
+          <span className="text-teal-400 ml-3">5. </span>
           <a
             className="text-purple-400"
             href="https://manthanrandompasswordgenerator.netlify.app/"
