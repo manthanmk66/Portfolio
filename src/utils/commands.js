@@ -127,13 +127,17 @@ export const getOutput = (command, setCommand) => {
       return (
         <div>
           <span className="text-teal-400 ml-3">1. </span>
-          <a className="text-purple-400" href="https://riderspoint.vercel.app/">
+          <a
+            className="text-purple-400"
+            href="https://riderspoint.vercel.app/"
+            target="_blank"
+          >
             {" "}
             Riders Point{" "}
           </a>
           <span className="text-teal-400 ml-3">
             {" "}
-            Technology:HTML, TailwindCSS, JavaScript, ReactJS, Java, SpringBoot,
+            Technology:ReactJS, TailwindCSS, JavaScript, Java, SpringBoot,
             Hibernate and MySQL
           </span>
           - Riders Point is a platform for group travel designed to facilitate
@@ -150,6 +154,7 @@ export const getOutput = (command, setCommand) => {
           <a
             className="text-purple-400"
             href="https://github.com/manthanmk66/EduTechForge"
+            target="_blank"
           >
             {" "}
             EduTechForge{" "}
@@ -173,6 +178,7 @@ export const getOutput = (command, setCommand) => {
           <a
             className="text-purple-400"
             href="https://github.com/manthanmk66/Nextjs"
+            target="_blank"
           >
             {" "}
             NextAuth{" "}
@@ -187,15 +193,42 @@ export const getOutput = (command, setCommand) => {
           route protection. Leveraging Appwrite for backend services, NextAuth
           ensures seamless integration with email delivery and more. Deployed on
           Vercel for scalability and reliability, NextAuth offers a streamlined
-          authentication experience for modern web applications.{" "}
-          {/* <span className="text-teal-400 ml-3">Riders Point</span>  */}
-          <br />
+          authentication experience for modern web applications. <br />
           <br />
           <br />
           <span className="text-teal-400 ml-3">4. </span>
           <a
             className="text-purple-400"
+            href="https://machine-wise-hosting.vercel.app/"
+            target="_blank"
+          >
+            {" "}
+            TemporalInsightHub
+          </a>
+          <span className="text-teal-400 ml-3">
+            {" "}
+            Technology:React.js, Chart.js, MongoDB, Tailwind CSS, Node.js,
+            Express.js
+          </span>
+          - Developed a dynamic web application merging MongoDB, React, and the
+          power of Chart.js for compelling data visualization. Users can explore
+          sample data with timestamps, gaining insights into trends.
+          Concurrently, the integration of real-time weather APIs enriches the
+          experience. Robust error handling ensures smooth navigation, while a
+          handy sample generation simulator aids in testing. Leveraging MongoDB
+          for storage, React for frontend, and Node.js Express.js for backend,
+          alongside Chart.js for mesmerizing data presentation, the app offers a
+          seamless user journey. Tailwind CSS adds finesse to the interface,
+          while Vercel and Render streamline deployment. With these features,
+          users engage effectively with data, enhancing comprehension and
+          engagement. <br />
+          <br />
+          <br />
+          <span className="text-teal-400 ml-3">5. </span>
+          <a
+            className="text-purple-400"
             href="https://github.com/manthanmk66/UserNex"
+            target="_blank"
           >
             {" "}
             UserNex{" "}
@@ -210,11 +243,30 @@ export const getOutput = (command, setCommand) => {
           profiles securely, ensuring a safe and efficient experience
           <br /> <br />
           <br />
-          {/* <span className="text-teal-400 ml-3">Riders Point</span> */}
-          <span className="text-teal-400 ml-3">5. </span>
+          <span className="text-teal-400 ml-3">6. </span>
+          <a
+            className="text-purple-400"
+            href="https://manthan-chatapp.netlify.app/"
+            target="_blank"
+          >
+            {" "}
+            Chat-App{" "}
+          </a>
+          <span className="text-teal-400 ml-3">
+            {" "}
+            Technology:React.js, Socket.io, and Tailwind CSS
+          </span>
+          - ChatApp is a minimalist web application built with React.js,
+          Socket.io, and Tailwind CSS. It facilitates real-time communication
+          among users with features like instant messaging. Enjoy a seamless
+          chatting experience with responsive design and customizable options.
+          <br /> <br />
+          <br />
+          <span className="text-teal-400 ml-3">7. </span>
           <a
             className="text-purple-400"
             href="https://manthanrandompasswordgenerator.netlify.app/"
+            target="_blank"
           >
             {" "}
             Random Password Generator- Chrome Extention{" "}
@@ -229,6 +281,49 @@ export const getOutput = (command, setCommand) => {
           options to customize the generated passwords, such as length and
           character types.{" "}
           {/* <span className="text-teal-400 ml-3">Riders Point</span>  */}
+          <br /> <br /> <br />
+          <span className="text-teal-400 ml-3">8. </span>
+          <a
+            className="text-purple-400"
+            href="https://manthanweatherapp.netlify.app/"
+            target="_blank"
+          >
+            {" "}
+            Weather App{" "}
+          </a>
+          <span className="text-teal-400 ml-3">
+            {" "}
+            Technology:HTML, CSS, Javascript
+          </span>
+          - The Weather App project is a simple web application allowing users
+          to access real-time weather information for any city globally. It's
+          built using HTML, CSS, and JavaScript, utilizing a free weather API
+          for data retrieval. Users can search for a city and instantly view
+          current temperature, humidity, wind speed, and cloudiness. The app
+          also automatically displays weather details for the user's local city
+          if no specific city is entered. With its user-friendly interface, this
+          project offers a seamless experience for obtaining weather updates.
+          <br /> <br />
+          <br />
+          <span className="text-teal-400 ml-3">9. </span>
+          <a
+            className="text-purple-400"
+            href="https://manthandiscordclone.netlify.app/"
+            target="_blank"
+          >
+            {" "}
+            Discord Clone{" "}
+          </a>
+          <span className="text-teal-400 ml-3">
+            {" "}
+            Technology: HTML, Tailwind CSS
+          </span>
+          - The Discord Clone App is a web application designed to replicate the
+          User Interface and animations of the Discord platform using HTML and
+          Tailwind CSS. With its sleek design and user-friendly interface, this
+          project aims to provide users with a familiar and enjoyable experience
+          similar to that of the original Discord application.
+          <br /> <br />
           <br />
         </div>
       );
